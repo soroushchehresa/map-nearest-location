@@ -1,6 +1,6 @@
 {
   "name": "map-nearest-location",
-  "version": "1.0.22",
+  "version": "1.0.23",
   "description": "find nearest location and distance from locations list without network request",
   "main": "./dist/index.js",
   "scripts": {
