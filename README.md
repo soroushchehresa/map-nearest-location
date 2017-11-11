@@ -1,4 +1,4 @@
-best library for find nearest location and distance from locations list without network request.
+best library for find nearest location and get distance from locations list without network request.
 
 ## Installation
 
