@@ -1,6 +1,6 @@
 {
   "name": "map-nearest-location",
-  "version": "1.0.25",
+  "version": "1.0.26",
   "description": "find nearest location and get distance from locations list",
   "main": "./dist/index.js",
   "scripts": {

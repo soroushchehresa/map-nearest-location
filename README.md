@@ -51,7 +51,7 @@ best library for find nearest location and get distance from locations list with
       lat: 40.682638,
       lng: -73.941015
    },
-   distance: 14191.625245346084
+   distance: 14191.625245346084 // meter
  }
 
 ```
