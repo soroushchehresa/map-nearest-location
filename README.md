@@ -2,7 +2,7 @@ best library for find nearest location and get distance from locations list with
 
 ## Installation
 
-  `npm install map-nearest-location`
+  `npm i -S map-nearest-location`
 
   or
 
