@@ -1,6 +1,6 @@
-best library for find nearest location and get distance from locations list without network request.
+Simple library for find nearest location and get distance from locations list without network request.
 
-## Installation
+## Install
 
   `npm i -S map-nearest-location`
 
