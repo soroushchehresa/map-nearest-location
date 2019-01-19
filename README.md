@@ -1,4 +1,8 @@
-Simple library for find nearest location and get distance from locations list without network request.
+# map-nearest-location
+
+[![NPM](https://img.shields.io/npm/v/map-nearest-location.svg)](https://www.npmjs.com/package/map-nearest-location)
+
+Simple library to find the nearest location and get distance from locations list without network request.
 
 ## Install
 
