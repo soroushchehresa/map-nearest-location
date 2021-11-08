@@ -1,13 +1,13 @@
 declare module "map-nearest-location" {
-  export type geoCord = {
+  export type geoCord<T = {}> = {
     lat: number;
     lng: number;
-  };
-  export default function findNearestLocation(
+  } & T;
+  export default function findNearestLocation<T = {}>(
     myLocation: geoCord,
-    locations: geoCord[]
+    locations: (geoCord & T)[]
   ): {
-    location: geoCord;
+    location: geoCord & T;
     distance: number;
   };
 }
