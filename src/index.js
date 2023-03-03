@@ -1,5 +1,5 @@
 import distance from './distance';
-
+console.log('asd');
 module.exports = function (latLng, locations) {
   let closestDistance = distance(latLng, locations[ 0 ]);
   let closest = locations[ 0 ];
